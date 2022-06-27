@@ -10,7 +10,7 @@
 <br>
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=cedricfranke28&show_icons=true&theme=radical&hide_border=false" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=cedricfranke28&show_icons=true&theme=radical)" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=cedricfranke28&theme=radical&hide_border=false" />
   </a>
 </p>
