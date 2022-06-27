@@ -1,7 +1,16 @@
-### Hi there, my name is Cedric Franke and this is my GitHub profil. Im currently working for Kardex Mlog and study electrical engineering.
+<h1 align="center">
+  <b>About me</b>
+</h1>
 
+<div align="center">
+<b>Hey!</b>
+<p>I'm Cedric Franke, currently working for <i>Kardex Mlog</i> and studying <i>electrical engineering</i>.</p>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?         username=cedricfranke28&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedricfranke28&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
+<p align="center">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=cedricfranke28&show_icons=true&theme=radical&hide_border=false" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=cedricfranke28&theme=radical&hide_border=false" />
+  </a>
+</p>
