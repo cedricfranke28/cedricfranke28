@@ -4,7 +4,8 @@
 
 <div align="center">
 <b>Hey!</b>
-<p>I'm Cedric Franke, currently working for <i>Kardex Mlog</i> and studying <i>electrical engineering</i>.</p>
+<p>
+I am currently working as a software developer at Kardex Mlog and have studied electrical engineering.</i>.</p>
 </div>
 
 <br>
