@@ -19,6 +19,7 @@ I am currently working as a software developer at Kardex Mlog and have studied e
 </div> 
 <div align="center">
   <img src="https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=csharp&color=151515&logoColor=000&labelColor=3fc8dd">
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=3fc8dd">
   <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=3fc8dd">
   <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=3fc8dd">
 </div>
