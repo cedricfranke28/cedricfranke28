@@ -31,4 +31,4 @@ I am currently working as a software developer at Kardex Mlog and have studied e
 
 <br/>
 
-[![cedricfranke28 Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cedricfranke28&hide_border=true&theme=react)](https://abhigyantrips.dev)
+[![cedricfranke28 Trips' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cedricfranke28&hide_border=true&theme=react)]([https://abhigyantrips.dev](https://github.com/cedricfranke28))
