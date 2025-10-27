@@ -30,4 +30,4 @@ I am currently working as a software developer at Kardex Mlog and have studied e
 </p>
 
 <br/>
-[![Cedric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cedricfranke28&theme=react)]
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cedricfranke28&theme=react">
